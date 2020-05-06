@@ -1,0 +1,29 @@
+{
+  "name": "pro-mern-stack",
+  "version": "1.0.0",
+  "description": "a practice for mastering MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenahongo/pro-mern-stack.git"
+  },
+  "keywords": [
+    "MERN",
+    "full-stack",
+    "nodejs"
+  ],
+  "author": "Elena Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenahongo/pro-mern-stack/issues"
+  },
+  "homepage": "https://github.com/elenahongo/pro-mern-stack#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7"
+  },
+  "devDependencies": {}
+}
